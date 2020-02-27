@@ -270,9 +270,6 @@ http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
 ########################################################### SPORTS ###################################################
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX Sport 1
 http://streamku.live:8888/live/freeempire/adminempire/620.ts
 
