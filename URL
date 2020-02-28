@@ -1155,7 +1155,7 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8?
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ua/MaljatkoTV.ua.png" group-title="KIDS",SAT KIDS TV 
 https://unirtmp.tulix.tv.1935/sat7kids/sat7kids1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-iptv-epg.com/id/Animax.id.png" group-title="KIDS",Animax 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Animax_old_logo.png" group-title="KIDS",Animax 
 https://210.210.155.35:80/dr9445/h/h144/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANIPlus.id.png" group-title="KIDS",ANIPLUS 
