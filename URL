@@ -1124,7 +1124,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdbW2GZe5R_s5UK4NznjDmz0qWO6jfthd0hGQ9NBqMZKRcwu_HQ&s" group-title="KIDS",Baby tv
 https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
 
-#EXTINF:-1 logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",Tom & Jerry
+#EXTINF:-1 logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS",Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
  
 #EXTINF:-1 logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",Larva
@@ -1149,16 +1149,16 @@ http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",NICK JR 
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",NICKELODEON 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mu/Nickelodeon.mu.png" group-title="KIDS",NICKELODEON 
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",KIDS TV 
-https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8?
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ua/MaljatkoTV.ua.png" group-title="KIDS",SAT KIDS TV 
+https://unirtmp.tulix.tv.1935/sat7kids/sat7kids1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",Animax 
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8?
+#EXTINF:-1 tvg-logo="https://static-iptv-epg.com/id/Animax.id.png" group-title="KIDS",Animax 
+https://210.210.155.35:80/dr9445/h/h144/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="KIDS",ANIPLUS 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANIPlus.id.png" group-title="KIDS",ANIPLUS 
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="KIDS",Knowledge Kids
