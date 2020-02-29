@@ -271,22 +271,22 @@ http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="SPORTS",FOX Sport 1
-http://streamku.live:8888/live/freeempire/adminempire/620.ts
+http://45.58.62.92:8080
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/88/Fox_Sports_2_Asia.jpg/320px-Fox_Sports_2_Asia.jpg" group-title="SPORTS",FOX Sport 2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/fox_sports_3.jpg" group-title="SPORTS",FOX Sport 3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+http://iliketot.dyndns.tv/b254601a75724ad79e2633f3d307e331.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/18/2/17/fox-sports-3-fox-sports-1-logo-television-channel-png-favpng-5ivi0RNBNQjMkirymSk78yabw.jpg" group-title="SPORTS",FOX SPORTS 1 FULL HD
-http://streamku.live:8888/live/freeempire/adminempire/620.ts
+http://45.58.62.92:8080
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpWz9MjrMreZzpQLjwsIBFRMz_rPpwmYzyluaA7tLko-UFEnBoCw&s" group-title="SPORTS",FOX SPORTS 2 FULL HD
-http://streamku.live:8888/live/freeempire/adminempire/517.ts
+http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRba8iGh0ZNjGuK6N45bEq3QNviWkbYYmajjW7pvYX77e6EKA-g&s" group-title="SPORTS",FOX SPORTS 3 FULL HD
-http://streamku.live:8888/live/freeempire/adminempire/518.ts
+http://iliketot.dyndns.tv/b254601a75724ad79e2633f3d307e331.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS",USEE SPORT 1
 http://streamku.live:8888/live/freeempire/adminempire/502.ts
@@ -367,22 +367,22 @@ https://www.doofree88.com/streaming/epl-x5_720/index.m3u8
 https://live.mawintv2.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet1.png" group-title="SPORTS",SkyNet Sport 1
-http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
+https://www.doofree88.com/streaming/sd-skynetsports1_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet2.png" group-title="SPORTS",SkyNet Sport 2
-http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
+https://www.doofree88.com/streaming/sd-skynetsports2_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet3.png" group-title="SPORTS",SkyNet Sport 3
-http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
+https://www.doofree88.com/streaming/sd-skynetsports3_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet4.png" group-title="SPORTS",SkyNet Sport 4
-http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
+https://www.doofree88.com/streaming/sd-skynetsports4_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet5.png" group-title="SPORTS",SkyNet Sport 5
-http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
+https://www.doofree88.com/streaming/sd-skynetsports5_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/skynet6.png" group-title="SPORTS",SkyNet Sport 6
-http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
+https://www.doofree88.com/streaming/sd-skynetsports6_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="SPORTS",TrueSport HD 1
 https://www.doofree88.com/streaming/hd-tsport1_720/index.m3u8
@@ -397,10 +397,10 @@ https://www.doofree88.com/streaming/hd-tsport3_720/index.m3u8
 https://www.doofree88.com/streaming/hd-tsport4_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="SPORTS",BT Sport 1 FHD
-http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BT Sport 2 FHD
-http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+https://www.doofree88.com/streaming/uk-btsport2hd_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTdT2GVsZsRYzowfIoV-tTpKMrggTB2-mDklUs3smYO5uXQR2i&s" group-title="SPORTS",Extreme Sports FHD PL
 http://king365-tv.com:2103/dsko/1234/2900
@@ -408,44 +408,44 @@ http://king365-tv.com:2103/dsko/1234/2900
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrDnKDfPTraObktrKtq_-vZFHTneuKKGLSf34vczl6JrgMp7TD&s" group-title="SPORTS",Fightbox FHD PL
 http://king365-tv.com:2103/dsko/1234/2897
 
-#EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" tvg-country="AU" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Racing.com
+
 
 
 ########################################################### BEIN GRUP ###################################################
 
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/400.png",Bein Sport
-http://skdn.redi-vo.com/iptv/ch400?code=1701273726237058&key=63718
+
+
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
-http://skdn.redi-vo.com/iptv/ch111?code=1701273726237058&key=54576
+https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-http://skdn.redi-vo.com/iptv/ch8111?code=1701273726237058&key=33281
+https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
-http://skdn.redi-vo.com/iptv/ch112?code=1701273726237058&key=46098
+https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-http://skdn.redi-vo.com/iptv/ch8112?code=1701273726237058&key=12334
+https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-http://skdn.redi-vo.com/iptv/ch113?code=1701273726237058&key=39255
+http://skdn.redi-vo.com/iptv/ch113?code=8601338691674826&key=39255
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8113.png",BeInSport 3 SD
-http://skdn.redi-vo.com/iptv/ch8113?code=1701273726237058&key=46519
+http://skdn.redi-vo.com/iptv/ch113?code=8601338691674826&key=39255
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
-http://skdn.redi-vo.com/iptv/ch114?code=1701273726237058&key=46165
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8114.png",BeInSport 4 SD
-http://skdn.redi-vo.com/iptv/ch8114?code=1701273726237058&key=40487
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
-http://skdn.redi-vo.com/iptv/ch115?code=1701273726237058&key=45992
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8115.png",BeInSport 5 SD
-http://skdn.redi-vo.com/iptv/ch8115?code=1701273726237058&key=26611
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
 http://skdn.redi-vo.com/iptv/ch116?code=1701273726237058&key=57392
