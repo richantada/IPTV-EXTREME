@@ -408,6 +408,27 @@ http://king365-tv.com:2103/dsko/1234/2900
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrDnKDfPTraObktrKtq_-vZFHTneuKKGLSf34vczl6JrgMp7TD&s" group-title="SPORTS",Fightbox FHD PL
 http://king365-tv.com:2103/dsko/1234/2897
 
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1284.png",Moto GP HD SP
+http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&amp;key=11345
+
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula1 HD SP
+http://skdn.redi-vo.com/iptv/ch1285?code=138137164006399&amp;key=47444
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/183.png",Nile Sport
+http://skdn.redi-vo.com/iptv/ch183?code=138137164006399&amp;key=23703
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1363.png",TRT Sport
+http://skdn.redi-vo.com/iptv/ch1363?code=138137164006399&amp;key=44118
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/2366.png",Sport Tv TR
+http://skdn.redi-vo.com/iptv/ch2366?code=138137164006399&amp;key=29705
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1867.png",Ziggo Sport Extra
+http://skdn.redi-vo.com/iptv/ch1867?code=138137164006399&amp;key=50232
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1866.png",Ziggo Sport Doc.
+http://skdn.redi-vo.com/iptv/ch1866?code=138137164006399&amp;key=31666
 
 
 
