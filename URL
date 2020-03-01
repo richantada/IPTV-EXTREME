@@ -336,23 +336,23 @@ https://www.doofree88.com/streaming/epl-x3_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS",True Premier Football 3 (Back Up)
 https://live.mawintv2.com/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport news UK
-http://skdn.redi-vo.com/iptv/ch1053?code=1701273726237058&key=62639
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football UK
-http://skdn.redi-vo.com/iptv/ch922?code=1701273726237058&key=22520
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/937.png",Sky Sport Premium UK
-http://skdn.redi-vo.com/iptv/ch937?code=1701273726237058&key=57619
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/914.png",SKY Sport Golf UK
-http://skdn.redi-vo.com/iptv/ch914?code=1701273726237058&key=36946
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/915.png",SKY Sport Action UK
-http://skdn.redi-vo.com/iptv/ch915?code=1701273726237058&key=26032
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/916.png",SKY Sport Criket UK
-http://skdn.redi-vo.com/iptv/ch916?code=1701273726237058&key=19074
+
+
+
+
+
+
+
+
+
+
+
+
  
 #EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORTS",True Premier Football 4
 https://www.doofree88.com/streaming/epl-x4_720/index.m3u8
@@ -754,8 +754,8 @@ http://210.210.155.35/session/a715f4e6-9b45-11e9-9bf9-852092ef5539/qwr9ew/s/s33/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jFbo1l8.png" group-title="MOVIES",ZEE BIOSKOP 
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
-#EXTINF:-1 tvg-ID="" tvg-name="Bioskop Indonesia" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies",Bioskop Indonesia
-http://streamku.live:8888/live/freeempire/adminempire/599.ts
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6S9cQR4.jpg" tvg-country="IN" tvg-url="" group-title="Movies",Zee Aflam
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
