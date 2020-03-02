@@ -378,6 +378,10 @@ http://skdn.redi-vo.com/iptv/ch1828?code=138137164006399&key=45498
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BT Sport 2 FHD
 https://skdn.redi-vo.com/iptv/ch1829?code=138137164006399&key=57494
 
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="SPORTS",BT Sport 3 FHD
+http://skdn.redi-vo.com/iptv/ch1830?code=138137164006399&key=30373
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTdT2GVsZsRYzowfIoV-tTpKMrggTB2-mDklUs3smYO5uXQR2i&s" group-title="SPORTS",Extreme Sports FHD PL
 http://king365-tv.com:2103/dsko/1234/2900
 
