@@ -592,6 +592,18 @@ http://streamku.live:8888/live/empire/adminempire/493.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvislam.id/wp-content/uploads/2019/08/logo-ashiil-1.png" group-title="RELIGI", ASHIIL TV
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI", AL IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI", PULDAPII TV
+http://178.128.121.192/hlsmobile/web.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI", RIFQAN TV
+http://119.82.232.89:1935/rifqan/live/playlist.m3u8
+
+
+
+
 
 ########################################################### KNOWLEDGE ###################################################
 
