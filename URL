@@ -391,7 +391,6 @@ http://king365-tv.com:2103/dsko/1234/2897
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1284.png",Moto GP HD SP
 http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&amp;key=11345
 
-
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula1 HD SP
 http://skdn.redi-vo.com/iptv/ch1285?code=138137164006399&amp;key=47444
 
@@ -605,8 +604,8 @@ http://178.128.121.192/hlsmobile/web.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI", RIFQAN TV
 http://119.82.232.89:1935/rifqan/live/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="RELIGI", MUADZ TV
+http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1362705145.m3u8
 
 
 ########################################################### KNOWLEDGE ###################################################
@@ -638,9 +637,6 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigati
 
 #EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0ODkzNzQ5NTAzMDU4/smithsonian-channel-logojpg.jpg" group-title="KNOWLEDGE",Smithsonian
 https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://prod-cdn-crimeandinvestigation-co-uk.s3.amazonaws.com/s3fs-public/logo.png?SC6.8eaHd_Cg9dpYhvLwqztGurNKGDM7" group-title="KNOWLEDGE",Crime Investigation
-http://103.146.185.235:8888/live/stress/bersama/757.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSJNQJ_vTiDRPRxrV0heKYOcfzy5mMG2bmtJZjE1c1CZIxy9lJ" group-title="KNOWLEDGE",National Geographic 1
 http://iliketot.dyndns.tv/850a8ca433184938bfaeaf770abc5d7a.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
@@ -675,7 +671,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID 3
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild Eng
+#EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild ID 4
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cf.shopee.co.id/file/1ad257ce8c49e345a56bdef207210ead" group-title="KNOWLEDGE",Nat Geo Wild (Backup)
@@ -1073,11 +1069,8 @@ http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cx7r6MYISVo/WRz76Ia7waI/AAAAAAAA5mI/T6ZVlOD-X6ESotJEL7rwzrCresCMyZaUACLcB/s640/cartoonnetworkhdb.png" group-title="KIDS",Cartoon Network ID
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cx7r6MYISVo/WRz76Ia7waI/AAAAAAAA5mI/T6ZVlOD-X6ESotJEL7rwzrCresCMyZaUACLcB/s640/cartoonnetworkhdb.png" group-title="KIDS",Cartoon Network 1
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cx7r6MYISVo/WRz76Ia7waI/AAAAAAAA5mI/T6ZVlOD-X6ESotJEL7rwzrCresCMyZaUACLcB/s640/cartoonnetworkhdb.png" group-title="KIDS",Cartoon Network 
 http://188.35.9.11:21151/udp/185f
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-cx7r6MYISVo/WRz76Ia7waI/AAAAAAAA5mI/T6ZVlOD-X6ESotJEL7rwzrCresCMyZaUACLcB/s640/cartoonnetworkhdb.png" group-title="KIDS",Cartoon Network 2
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1200px-Nicktoons_Network_logo_2009.svg.png" group-title="KIDS",Nick Toons
 http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
@@ -1087,9 +1080,6 @@ https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="KIDS",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180802/rtl/kisspng-logo-boomerang-television-channel-high-definition-file-boomerang-hd-png-tvcl-tv-channel-lists-5b6379a905e444.1540880715332458650241.jpg" group-title="KIDS",Boomerang ID
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180802/rtl/kisspng-logo-boomerang-television-channel-high-definition-file-boomerang-hd-png-tvcl-tv-channel-lists-5b6379a905e444.1540880715332458650241.jpg" group-title="KIDS",Boomerang Backup
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
@@ -1105,6 +1095,8 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_24
 
 #EXTINF:0 tvg-logo="https://img.favpng.com/19/6/5/disney-channel-television-channel-disney-xd-the-walt-disney-company-disney-junior-png-favpng-9Lqu7NgcVLfnwLhjUcCPDb55z.jpg" group-title="KIDS",Disney Channel 2
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+
+#EXTINF:0 tvg-logo="https://img.favpng.com/19/6/5/disney-channel-television-channel-disney-xd-the-walt-disney-company-disney-junior-png-favpng-9Lqu7NgcVLfnwLhjUcCPDb55z.jpg" group-title="KIDS",Disney Channel 3
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="KIDS",3ABN Kids
