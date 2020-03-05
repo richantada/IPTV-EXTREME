@@ -783,13 +783,13 @@ http://streamku.live:8888/live/freeempire/adminempire/585.ts
 https://www.doofree88.com/streaming/sd-fox_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Movies ID
-http://streamku.live:8888/live/freeempire/adminempire/581.ts
+http://62.210.139.229:25461/895V8/3V25V/5188
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" group-title="MOVIES",Fox Movies ID (Back Up)
 https://www.doofree88.com/streaming/hd-foxpremium_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="MOVIES", FOX ACTION MOVIES 
-http://streamku.live:8888/live/freeempire/adminempire/586.ts
+http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="MOVIES", FOX ACTION MOVIES (Back Up)
 https://www.doofree88.com/streaming/hd-foxaction_720/index.m3u8
@@ -801,7 +801,10 @@ http://streamku.live:8888/live/freeempire/adminempire/582.ts
 https://www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO
-http://streamku.live:8888/live/freeempire/adminempire/576.ts
+http://62.210.139.229:25461/895V8/3V25V/5204
+
+
+
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO (Back Up)
 https://www.doofree88.com/streaming/hd-hbo-th_480/index.m3u8
@@ -813,7 +816,7 @@ http://streamku.live:8888/live/empire/adminempire/578.m3u8
 http://streamku.live:8888/live/freeempire/adminempire/578.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family
-http://streamku.live:8888/live/empire/adminempire/661.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO Family (Back Up)
 http://streamku.live:8888/live/freeempire/adminempire/661.ts
