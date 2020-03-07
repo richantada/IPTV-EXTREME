@@ -1019,7 +1019,7 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNdbW2GZe5R_s5UK4NznjDmz0qWO6jfthd0hGQ9NBqMZKRcwu_HQ&s" group-title="KIDS",Baby tv
-https://www.livedoomovie.com/02_Baby_TV_HD_720p/chunklist.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
 
 #EXTINF:-1 logo="https://i.imgur.com/EI5RUGZ.jpg" group-title="KIDS",Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
