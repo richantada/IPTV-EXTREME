@@ -774,13 +774,13 @@ http://streamku.live:8888/live/freeempire/adminempire/582.ts
 https://www.doofree88.com/streaming/hd-foxcrimeeng_720/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO
-http://62.210.139.229:25461/895V8/3V25V/5204
+http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="id N/A" tvg-logo="https://github.com/jewbmx/resource.images.studios.white/blob/master/resources/HBO.png?raw=true" group-title="Movies",HBO (Back Up)
-
+http://docs-6.gogleusercontent.host/live/hbo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="MOVIES",HBO Hits HD ID
 
