@@ -38,6 +38,10 @@ http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI 3
 http://45.126.83.51/qwr9ew/s/s11/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESOFKiybUvkFuLbjTY3-UF3-ETXB5JJ9nlv671K2bbyv8OTv6-w&s" group-title="INDONESIA",GLOBAL TV 
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 
