@@ -383,6 +383,15 @@ http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&amp;key=11345
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula1 HD SP
 http://skdn.redi-vo.com/iptv/ch1285?code=138137164006399&amp;key=47444
 
+#EXTINF:-1 group-title="SPORTS"tvg-logo="http://www.useetv.com/assets/images/channeliptv/logo_useesport_small.png?v=2.0.0.13",Usee Sport 1
+https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
+
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useesport_small.png?v=2.0.0.13",Usee Sport 1
+https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
+
+#EXTINF:-1 group-title="SPORTS"tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useesport2_small.png",Usee Sport 2
+https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
+
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/183.png",Nile Sport
 http://skdn.redi-vo.com/iptv/ch183?code=138137164006399&amp;key=23703
 
