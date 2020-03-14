@@ -400,41 +400,41 @@ http://skdn.redi-vo.com/iptv/ch1866?code=138137164006399&amp;key=31666
 
 ########################################################### BEIN GRUP ###################################################
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-http://vvn.neoredi.com/iptv/ch8111?code=1501309316704233&key=33281
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-http://vvn.neoredi.com/iptv/ch8112?code=1501309316704233&key=12334
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8113.png",BeInSport 3 SD
-http://vvn.neoredi.com/iptv/ch8113?code=1501309316704233&key=46519
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8114.png",BeInSport 4 SD
-http://vvn.neoredi.com/iptv/ch8114?code=1501309316704233&key=40487
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8115.png",BeInSport 5 SD
-http://vvn.neoredi.com/iptv/ch8115?code=1501309316704233&key=26611
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8116.png",BeInSport 6 SD
-http://vvn.neoredi.com/iptv/ch8116?code=1501309316704233&key=29929
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8117.png",BeInSport 7 SD
-http://vvn.neoredi.com/iptv/ch8117?code=1501309316704233&key=24135
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8118.png",BeInSport 8 SD
-http://vvn.neoredi.com/iptv/ch8118?code=1501309316704233&key=39883
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8510.png",BeInSport 9 SD
-http://vvn.neoredi.com/iptv/ch8510?code=1501309316704233&key=20158
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8511.png",BeInSport 10 SD
-http://vvn.neoredi.com/iptv/ch8511?code=1501309316704233&key=15103
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/c8h512.png",BeInSport 11 SD
-http://vvn.neoredi.com/iptv/ch512?code=1501309316704233&key=55556
 
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8513.png",BeInSport 12 SD
-http://vvn.neoredi.com/iptv/ch513?code=1501309316704233&key=55186
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
 http://vvn.neoredi.com/iptv/ch111?code=1501309316704233&key=54576
@@ -892,7 +892,7 @@ https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
 http://iptvhit.live/sams/dikasihgratis/samtv/42
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="MOVIES",HBO Hits HD ID
-http://iptvhit.live/sams/dikasihgratis/samtv/43
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="MOVIES",HBO Hits HD ID (Back Up)
 http://iptvhit.live/sams/dikasihgratis/samtv/43
