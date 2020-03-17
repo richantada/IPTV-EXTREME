@@ -69,7 +69,7 @@ http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/ANTV.png" group-title="INDONESIA",ANTV 2
-https://www.useetv.com/livetv/antv
+http://id1.indostreamingtv.com/live/antv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPm5ytF.png" group-title="INDONESIA",MNCTV 
